@@ -1,5 +1,5 @@
  <p align="center">
-<img src="images/logo.png" alt="Logo Aphelion Web Development" width="250" height="auto">
+<img src="images/logo.png" alt="Logo Aphelion Web Development" width="50%" height="auto">
 </p>
 
   <p align="center">

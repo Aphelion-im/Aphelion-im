@@ -34,7 +34,7 @@ I love to design beautiful interfaces and bring them to life with code.
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aphelion-im&stroke=00448D&background=ffffff&ring=00448D&fire=00448DcurrStreakNum=00448D&currStreakLabel=00448D&sideNums=00448D&sideLabels=00448D&dates=00448D&hide_border=true" />
 </p>
 
-<a href="https://github.com/Aphelion-im" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aphelion-im&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Aphelion-im" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aphelion-im&langs_count=20&title_color=00448D&text_color=00448D&icon_color=00448D&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 

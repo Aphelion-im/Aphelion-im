@@ -7,9 +7,9 @@ Front-end Developer & Designer
 I love to design beautiful interfaces and bring them to life with code.
 
 * 🌍  I'm based in Amsterdam
-* 🖥️  See my portfolio at [Not yet live](https://duckduckgo.com)
+* 🖥️  See my portfolio at <a target="_blank" href="https://duckduckgo.com">Not yet live</a>
 * ✉️  You can contact me at [andre.de.groot@novi-education.nl](mailto:andre.de.groot@novi-education.nl)
-* 🚀  I'm currently working on [FOUNDFAVE app](https://foundfave.online)
+* 🚀  I'm currently working on <a target="_blank" href="https://foundfave.online">FoundFave App</a>
 * 🧠  I'm learning React, Vue, TypeScript, Node
 * 🤝  I'm open to collaborating on Interesting open source projects
 

@@ -28,22 +28,17 @@ I love to design beautiful interfaces and bring them to life with code.
 ### Badges
 
 <b>My GitHub Stats</b>
+  <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aphelion-im&show_icons=true&theme=slateorange&icon_color=F86C18&title_color=F86C18" />
 
-<p align="center">
-<a href="http://www.github.com/Aphelion-im"><img src="https://github-readme-stats.vercel.app/api?username=Aphelion-im&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Aphelion-im's GitHub stats" /></a>
-
-<a href="http://www.github.com/Aphelion-im"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aphelion-im&stroke=3382ed&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aphelion-im&theme=slateorange&hide_border=false&ring=F86C18&fire=F86C18&currStreakNum=F86C18&currStreakLabel=F86C18&sideNums=F86C18&sideLabels=F86C18&stroke=00448D&border=fff" />
 </p>
 
 <a href="https://github.com/Aphelion-im" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aphelion-im&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
-  <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aphelion-im&show_icons=true&theme=slateorange&icon_color=F86C18&title_color=F86C18" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aphelion-im&theme=slateorange&hide_border=false&ring=F86C18&fire=F86C18&currStreakNum=F86C18&currStreakLabel=F86C18&sideNums=F86C18&sideLabels=F86C18&stroke=00448D&border=fff" />
-</p>
 
 
 

@@ -8,7 +8,7 @@ I love to design beautiful interfaces and bring them to life with code.
 
 * 🌍  I'm based in Amsterdam
 * 🖥️  See my portfolio at [Not yet live](http://duckduckgo.com)
-* ✉️  You can contact me at [amdegroot@protonmail.com](mailto:andre.de.groot@novi-education.nl)
+* ✉️  You can contact me at [andre.de.groot@novi-education.nl](mailto:andre.de.groot@novi-education.nl)
 * 🚀  I'm currently working on [FOUNDFAVE app](http://foundfave.online)
 * 🧠  I'm learning React, Vue, TypeScript
 * 🤝  I'm open to collaborating on Interesting open source projects

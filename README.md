@@ -1,7 +1,7 @@
 Hi 👋 My name is André
 ======================
 
-Front-end Developer & Designer
+**`Digital Craftsman (Front-end Developer & Designer)`**
 ------------------------------
 
 I love to design beautiful interfaces and bring them to life with code.

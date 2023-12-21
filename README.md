@@ -25,16 +25,8 @@ I love to design beautiful interfaces and bring them to life with code.
 
 <p align="left"> <a href="https://www.codepen.io/Aphelion-im" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Aphelion-im" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/7666820/aphelion-im" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-<p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aphelion-im&show_icons=true&hide=&count_private=true&title_color=00448D&text_color=00448D&icon_color=00448D&bg_color=ffffff&hide_border=true&show_icons=true" alt="Aphelion-im's GitHub stats" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aphelion-im&stroke=00448D&background=ffffff&ring=00448D&fire=00448D&currStreakNum=00448D&currStreakLabel=00448D&sideNums=00448D&sideLabels=00448D&dates=00448D&hide_border=true" />
-</p>
-
-<a href="https://github.com/Aphelion-im" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aphelion-im&langs_count=20&title_color=00448D&text_color=00448D&icon_color=00448D&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 

@@ -10,7 +10,7 @@ I love to design beautiful interfaces and bring them to life with code.
 * 🖥️  See my portfolio at <a target="_blank" href="https://duckduckgo.com">Not yet live</a>
 * ✉️  You can contact me at [andre.de.groot@novi-education.nl](mailto:andre.de.groot@novi-education.nl)
 * 🚀  I'm currently working on <a target="_blank" href="https://foundfave.online">FoundFave App</a>
-* 🧠  I'm learning React, Vue, TypeScript, Node
+* 🧠  I'm learning React, TypeScript, Tailwind CSS, Sass, Grid, BEM, accessibility
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 ### Skills

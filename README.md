@@ -7,7 +7,7 @@ Hi 👋 My name is André
 I love to design beautiful interfaces and bring them to life with code.
 
 * 🌍  I'm based in Amsterdam
-* 🖥️  See my portfolio at <a target="_blank" href="https://duckduckgo.com">Not yet live</a>
+* 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
 * ✉️  You can contact me at [andre.de.groot@novi-education.nl](mailto:andre.de.groot@novi-education.nl)
 * 🚀  I'm currently working on <a target="_blank" href="https://foundfave.online">FoundFave App</a>
 * 🧠  I'm learning React, TypeScript, Tailwind CSS, Sass, Grid, BEM, accessibility

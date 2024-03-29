@@ -1,5 +1,6 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <!-- https://skillicons.dev -->
+<!-- https://shields.io -->
 Hi 👋 My name is André
 ======================
 
@@ -30,7 +31,8 @@ I love to design beautiful interfaces and bring them to life with code.
 ### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=typescript,tailwind&perline=10)](https://skillicons.dev)
 
-
+### On My Radar
+[![My Skills](https://skillicons.dev/icons?i=nextjs&perline=10)](https://skillicons.dev)
 
 
 

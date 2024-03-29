@@ -29,10 +29,7 @@ I love to design beautiful interfaces and bring them to life with code.
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,webstorm,vite,git,github,maven,postman,npm&perline=10)](https://skillicons.dev)
 
 ### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=typescript,tailwind&perline=10)](https://skillicons.dev)
-
-### On My Radar
-[![My Skills](https://skillicons.dev/icons?i=nextjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,tailwind&perline=10)](https://skillicons.dev)
 
 
 

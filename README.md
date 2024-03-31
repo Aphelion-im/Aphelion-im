@@ -11,7 +11,7 @@ I love to design beautiful interfaces and bring them to life with code.
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
 * ✉️  You can contact me at [andre.de.groot@novi-education.nl](mailto:andre.de.groot@novi-education.nl)
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
-* 🧠  I'm learning React, TypeScript, Tailwind CSS, Sass, Grid, BEM, accessibility
+* 🧠  I'm currently learning Next.js, React, TypeScript, Tailwind CSS, CSS Grid, BEM, accessibility
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 

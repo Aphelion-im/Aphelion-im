@@ -7,7 +7,7 @@ Hi 👋 My name is André
 I love to design beautiful interfaces and bring them to life with code.
 
 * 🌍  I'm based in Amsterdam
-* 🎓  Graduated from NOVI University of Applied Sciences in 2024
+* 🎓  Graduated from NOVI University of Applied Sciences (NOVI Hogeschool) in 2024
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
 * ✉️  You can contact me at [github@amdegroot.dev](mailto:github@amdegroot.dev)
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>

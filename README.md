@@ -46,7 +46,7 @@ I love to design beautiful interfaces and bring them to life with code.
 ![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000?style=for-the-badge&logo=FileZilla&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%23D83B01?style=for-the-badge&logo=Microsoft&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ONLYOFFICE](https://img.shields.io/badge/ONLYOFFICE-%23444444?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)

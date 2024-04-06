@@ -1,7 +1,6 @@
 <!-- https://shields.io -->
 <!-- https://simpleicons.org -->
 <!-- https://github.com/simple-icons/simple-icons -->
-![Coding](./images/code.gif)
 Hi 👋 My name is André
 ======================
 

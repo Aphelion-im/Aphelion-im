@@ -83,8 +83,8 @@ I love to design beautiful interfaces and bring them to life with code.
 
 ### Currently Learning
 ![Codeium](https://img.shields.io/badge/Codeium-%2309B6A2?style=for-the-badge&logo=Codeium&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)

@@ -11,7 +11,7 @@ I love to design beautiful interfaces and bring them to life with code.
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
 * ✉️  You can contact me at [github@amdegroot.dev](mailto:github@amdegroot.dev)
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
-* 🧠  I'm currently learning Next.js, React, TypeScript, Tailwind CSS, CSS Grid, BEM, accessibility
+* 🧠  I'm currently learning PHP, Laravel, React, TypeScript, Tailwind CSS, accessibility
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 
@@ -32,6 +32,7 @@ I love to design beautiful interfaces and bring them to life with code.
 ![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C?style=for-the-badge&logo=cPanel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)

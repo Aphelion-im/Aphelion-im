@@ -11,7 +11,7 @@ I love to design beautiful interfaces and bring them to life with code.
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
 * ✉️  You can contact me at [github@amdegroot.dev](mailto:github@amdegroot.dev)
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
-* 🧠  I'm currently learning PHP, Laravel, React, TypeScript, Tailwind CSS, accessibility
+* 🧠  I'm currently learning PHP, Laravel, SQL, React, TypeScript, Tailwind CSS, accessibility
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 

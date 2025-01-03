@@ -80,6 +80,7 @@ I love to design beautiful interfaces and bring them to life with code.
 ### Hosting/SaaS
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-%23F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6?style=for-the-badge&logo=Hostinger&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/Namecheap-%23DE3723?style=for-the-badge&logo=Namecheap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)

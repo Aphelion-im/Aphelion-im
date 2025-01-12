@@ -44,16 +44,14 @@ I love to design beautiful interfaces and bring them to life with code.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Tools
+![Codeium](https://img.shields.io/badge/Codeium-%2309B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-%23885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Create React App](https://img.shields.io/badge/Create%20React%20App-%2309D3AC?style=for-the-badge&logo=Create%20React%20App&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000?style=for-the-badge&logo=FileZilla&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%23D83B01?style=for-the-badge&logo=Microsoft&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ONLYOFFICE](https://img.shields.io/badge/ONLYOFFICE-%23444444?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)

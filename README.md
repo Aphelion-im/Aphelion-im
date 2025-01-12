@@ -44,6 +44,7 @@ I love to design beautiful interfaces and bring them to life with code.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Tools
+![Composer](https://img.shields.io/badge/Composer-%23885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Create React App](https://img.shields.io/badge/Create%20React%20App-%2309D3AC?style=for-the-badge&logo=Create%20React%20App&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000?style=for-the-badge&logo=FileZilla&logoColor=white)

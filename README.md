@@ -8,10 +8,10 @@ I love to design beautiful interfaces and bring them to life with code.
 
 * 🌍  I'm based in Amsterdam
 * 🎓  Graduated from NOVI University of Applied Sciences (NOVI Hogeschool) in 2024
-* 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
-* ✉️  You can contact me at [github@amdegroot.dev](mailto:github@amdegroot.dev)
-* 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.dev">Amdegroot.dev</a>
-* 🧠  I'm currently learning PHP, Laravel, SQL, React, TypeScript, Tailwind CSS, accessibility
+* 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
+* ✉️  You can contact me at [github@amdegroot.nl](mailto:github@amdegroot.nl)
+* 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.nl">Amdegroot.nl</a>
+* 🧠  I'm currently learning C# and the Unity game engine.
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 

@@ -8,7 +8,7 @@ I love to design beautiful interfaces and bring them to life with code.
 
 * 🌍  I'm based in Amsterdam
 * 🎓  Graduated from NOVI University of Applied Sciences (NOVI Hogeschool) in 2024
-* 🎓  Graduated from College of Multimedia in 2020
+* 🎓  Graduated from College of MultiMedia in 2020
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
 * ✉️  You can contact me at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>

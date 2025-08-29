@@ -11,7 +11,7 @@ I love to design beautiful interfaces and bring them to life with code.
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
 * ✉️  You can contact me at [github@amdegroot.nl](mailto:github@amdegroot.nl)
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.nl">Amdegroot.nl</a>
-* 🧠  I'm currently learning C/C++
+* 🧠  I'm currently learning Vibe coding, NextJS, TypeScript, Tailwind.
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 

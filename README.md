@@ -12,7 +12,7 @@ I love to design beautiful interfaces and bring them to life with code.
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
 * ✉️  You can contact me at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
-* 🧠  I'm currently learning: NextJS, React, TypeScript, Tailwind, ShadCN UI, PHP, Laravel, Wordpress, AI.
+* 🧠  I'm currently learning: Next.js, React.js, Node.js, Express.js, TypeScript, Tailwind, MongoDB, PostgreSQL, AI.
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 
@@ -25,7 +25,7 @@ I love to design beautiful interfaces and bring them to life with code.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Back-End

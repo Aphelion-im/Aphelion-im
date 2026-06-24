@@ -12,7 +12,7 @@ I love to design beautiful interfaces and bring them to life with code.
 * 🖥️  See my portfolio at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
 * ✉️  You can contact me at <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
 * 🚀  I'm currently working on <a target="_blank" href="https://amdegroot.netlify.app">Amdegroot.nl</a>
-* 🧠  I'm currently learning: PHP, Laravel, HTMX/Livewire, WordPress, TypeScript, Alpine.js, Tailwind, SQLite, AI.
+* 🧠  I'm currently learning: PHP, Laravel, HTMX/Livewire, WordPress, Alpine.js, Tailwind, SQLite, AI.
 * 🤝  I'm open to collaborating on Interesting open source projects
 
 
